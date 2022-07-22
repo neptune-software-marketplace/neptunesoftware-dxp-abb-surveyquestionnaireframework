@@ -1,0 +1,47 @@
+{
+	"id": "72C83E53-BA09-ED11-B47A-000D3AB2359F",
+	"createdAt": "2022-07-22T12:32:19.363Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-surveyquestionnaireframework",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-surveyquestionnaireframework",
+	"description": null,
+	"ver": "22.7.22.1234",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "248FED53-B801-ED11-B47A-000D3AB2359F",
+			"ver": "22.7.22.1433",
+			"application": "neptbb_questionnaire_framework",
+			"title": "SURVEY",
+			"description": "Questionnaire Framework"
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
